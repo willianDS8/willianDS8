@@ -9,7 +9,8 @@ ola me chamo willian
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willianDS8&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willianDS8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
--tecnologia que uso no meu dia 
+-tecnologia que uso no meu dia a dia
+
 
 <div style="display: inline_block"><br>
   <img aling=center"" alt""  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
